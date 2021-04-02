@@ -1,0 +1,9 @@
+# WebDriver executable
+geckodriver
+
+# personal information
+swimmers.json
+
+# auto-generated files
+*.log
+__pycache__/
